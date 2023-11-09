@@ -48,7 +48,7 @@ function CustomerView() {
     const contractAddress = "0x78b60b155D3B5c3b34Cb56e8d084422a922385EE";
 
     // const provider = "https://erpc.apothem.network";
-    const provider = "https://gwan-ssl.wandevs.org:46891";
+    const provider = "https://gwan-ssl.wandevs.org:56891";
 
     const web3 = new Web3(new Web3.providers.HttpProvider(provider));
 

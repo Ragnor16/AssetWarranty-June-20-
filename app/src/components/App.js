@@ -42,7 +42,7 @@ var connectOptions = {
   rpcObj: {
     50: "https://erpc.xinfin.network",
     51: "https://erpc.apothem.network",
-    999: "https://gwan-ssl.wandevs.org:46891",
+    888: "https://gwan-ssl.wandevs.org:56891",
   },
   network: "mainnet",
   toDisableInjectedProvider: true,

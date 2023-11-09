@@ -33,7 +33,7 @@ module.exports = {
       accounts: [process.env.PRIVATE_KEY],
     },
     private: {
-      url: "https://gwan-ssl.wandevs.org:46891",
+      url: "https://gwan-ssl.wandevs.org:56891",
       accounts: [process.env.PRIVATE_KEY],
     },
   },
